@@ -1,0 +1,6 @@
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\bin\Debug\capaDominio.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\obj\Debug\capaDominio.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\obj\Debug\capaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\obj\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDominio\obj\Debug\capaDominio.pdb

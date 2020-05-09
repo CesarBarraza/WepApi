@@ -1,0 +1,9 @@
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\bin\Debug\capaDominio.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaDatos\obj\Debug\capaDatos.pdb

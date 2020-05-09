@@ -1,0 +1,45 @@
+﻿.form-group {
+    margin-bottom: 20px;
+}
+
+
+input {
+    float: right;
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+}
+
+.titulo {
+    color: brown;
+}
+#tbl_producto { 
+    /*width: 600px;*/
+    text-align: center;
+    cursor: pointer;
+}
+
+.contenedor-tabla tr:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
+.contenedor-tabla{
+    height: 400px;
+    overflow:scroll;
+}
+
+.contenedor-botones{
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/*Botones*/
+
+.btn-ttc {
+    background-color: red;
+    width: 100px;
+}

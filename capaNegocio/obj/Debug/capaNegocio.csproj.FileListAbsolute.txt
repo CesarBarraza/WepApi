@@ -1,0 +1,11 @@
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\bin\Debug\capaDominio.pdb
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Cesar\source\repos\FormularioWebApi\capaNegocio\obj\Debug\capaNegocio.pdb

@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Producto</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="estilos.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.4.js"
+            integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="container-fluid mt-3 mb-3">
+            <h2 class="titulo">Formulario</h2>
+        </div>
+
+        <form>
+            <div class="form-row">
+
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <label>Nombre</label>
+                    <input type="text" id="nombre">
+                </div>
+
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <label>Descripción</label>
+                    <input type="text" id="desc">
+                </div>
+
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <label>Precio</label>
+                    <input type="text" id="precio">
+                </div>
+
+                <div class="col-sm-12 col-md-6 col-lg-3 mb-3">
+                    <label>Sotck</label>
+                    <input type="text" id="stock">
+                </div>
+            </div>
+        </form>
+
+        <div class="container">
+            <div class="contenedor-botones">
+                <button class="btn btn-primary ml-3" onclick="guardar()">Guardar</button>
+                <button class="btn btn-danger ml-3" onclick="eliminar()">Eliminar</button>
+                <button class="btn btn-success ml-3" onclick="limpiarForm()">Cancelar</button>
+            </div>
+        </div>
+
+        <div class="row mt-5 contenedor-tabla ">
+            <div class="col-xl-12 ">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">IDProducto</th>
+                            <th scope="col">Nombre</th>
+                            <th scope="col">Descripción</th>
+                            <th scope="col">Precio</th>
+                            <th scope="col">Stock</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tabla">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
